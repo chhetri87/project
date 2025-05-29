@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <style>
+    .st0{fill:#32be8f;}
+    .st1{fill:#38d39f;}
+    .st2{fill:#FFFFFF;}
+    .st3{fill:#f6f6f6;}
+    .st4{fill:#e6e6e6;}
+  </style>
+  <g>
+    <!-- Background elements -->
+    <circle class="st3" cx="250" cy="250" r="200"/>
+    <path class="st4" d="M120,150 C150,120 200,100 250,100 C350,100 400,150 430,200 C460,250 450,350 400,400 C350,450 300,420 250,400 C200,380 150,400 100,350 C50,300 90,180 120,150z"/>
+    
+    <!-- Envelope base -->
+    <rect class="st2" x="150" y="180" width="200" height="140" rx="10" ry="10"/>
+    <path class="st1" d="M150,190 L250,250 L350,190 L350,320 L150,320 Z"/>
+    <path class="st0" d="M150,190 L250,250 L350,190 L350,180 C350,175 345,170 340,170 L160,170 C155,170 150,175 150,180 Z"/>
+    
+    <!-- Message icon -->
+    <rect class="st2" x="180" y="210" width="140" height="80" rx="5" ry="5"/>
+    <line class="st0" x1="200" y1="230" x2="300" y2="230" style="stroke:#32be8f;stroke-width:3"/>
+    <line class="st0" x1="200" y1="250" x2="300" y2="250" style="stroke:#32be8f;stroke-width:3"/>
+    <line class="st0" x1="200" y1="270" x2="260" y2="270" style="stroke:#32be8f;stroke-width:3"/>
+    
+    <!-- Decorative elements -->
+    <circle class="st1" cx="120" cy="150" r="15"/>
+    <circle class="st0" cx="380" cy="280" r="20"/>
+    <circle class="st1" cx="330" cy="120" r="10"/>
+    <circle class="st0" cx="180" cy="350" r="12"/>
+  </g>
+</svg>
